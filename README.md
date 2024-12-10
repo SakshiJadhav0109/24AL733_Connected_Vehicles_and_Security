@@ -1,6 +1,6 @@
 # 24AL733 - Connected Vehicles and Security 
-![](https://img.shields.io/badge/UG-blue) ![](https://img.shields.io/badge/Subject-CVS-blue) <br/>
-![](https://img.shields.io/badge/Lecture-3-orange) ![](https://img.shields.io/badge/Credits-3-orange) <br/> ![](https://img.shields.io/badge/Students-TBD-gold)
+![](https://img.shields.io/badge/PG-blue) ![](https://img.shields.io/badge/Subject-CVS-blue) <br/>
+![](https://img.shields.io/badge/Lecture-3-orange) ![](https://img.shields.io/badge/Credits-3-orange) <br/> ![](https://img.shields.io/badge/Students-10-gold)
 
 #### Course Instructor:  Ramaguru R, Assistant Professor (Senior Grade), TIFAC-CORE in Cyber Security.
 
@@ -18,7 +18,22 @@
 | Lecture Number | Topics                                    | Method    | No of Hours |
 |----------------|-------------------------------------------|-----------|-------------|
 
+
+### Evaluation Criteria
+
+| Component | Marks |
+|:---------:|:-----:|
+| Quizzes |  10 |
+| Assignments | 10 |
+| Mid-Term Examination | 30  | 
+| Mini-Project | 10 | 
+| End Semester | 40 | 
+
 ### Dates and Deadlines
 
-| Course Start | 04 - Dec - 2024 |
+| Course Start | 11 - Dec - 2024 |
 |--------------|-----------------|
+| Mid-Term Examination |	Feb - 2025 |
+| End Semester Examination	| Apr - 2025 | 
+| Publication of Results |	May - 2025 | 
+
