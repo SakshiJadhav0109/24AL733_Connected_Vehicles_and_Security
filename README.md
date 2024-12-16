@@ -24,9 +24,9 @@
 | Component | Marks |
 |:---------:|:-----:|
 | Quizzes |  10 |
-| Assignments | 10 |
+| Assignments | 5 |
 | Mid-Term Examination | 30  | 
-| Mini-Project | 10 | 
+| Mini-Project | 15 | 
 | End Semester | 40 | 
 
 ### Dates and Deadlines
