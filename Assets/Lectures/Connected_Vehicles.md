@@ -10,6 +10,10 @@ A Connected Vehicle is
 - a vehicle that can communicate with other vehicles
 - a vehicle with internet connection and can communicate with internet
 
+<p align="center">
+  <img src="../images/CV.gif" width=440 />
+</p>
+
 ### Evolution through Connected Vehicles
 - 1980: On-board Computer - BMW put an on-board computer into an F1 car. This passed vehicle data on to the box. 
 - 1996: E-Call Functionality - In-built functionality that the vehicle could register an accident and automatically call the nearest emergency centre. General Motors introduces OnStar, created in partnership with Motorola Automotive.
@@ -26,3 +30,12 @@ A Connected Vehicle is
 
 
 _Sources:_ [Compass IoT Global](https://www.compassiotglobal.com/ultimate-guide-to-connected-vehicles/part-1-background-on-connected-vehicles-and-connected-vehicle-data), [BMW - Connected Car and its History](https://www.bmw.com/en/innovation/connected-car.html#:~:text=The%20connected%20car%20in%20Formula,linked%20up%20with%20their%20environment.)
+
+### Types of Vehicle Connectivity - Vehicle to Everything (V2X)
+- Vehicle to Vehicle (V2V)
+- Vehicle to Infrastructure (V2I)
+- Vehicle to Cloud (V2C)
+- Vehicle to Pedestrian (V2P)
+- Vehicle to Device (V2D)
+- Vehicle to Network (V2N)
+- Vehicle to Grid (V2G)
