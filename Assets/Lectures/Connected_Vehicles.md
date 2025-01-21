@@ -2,7 +2,7 @@
 ![](https://img.shields.io/badge/PG-blue) ![](https://img.shields.io/badge/Subject-CVS-blue) <br/>
 
 ## Connected Vehicles
-![](https://img.shields.io/badge/Date-20_Jan-blue)
+![](https://img.shields.io/badge/Date-22_Jan-blue)
 
 ### Definition
 A Connected Vehicle is 
@@ -32,10 +32,32 @@ A Connected Vehicle is
 _Sources:_ [Compass IoT Global](https://www.compassiotglobal.com/ultimate-guide-to-connected-vehicles/part-1-background-on-connected-vehicles-and-connected-vehicle-data), [BMW - Connected Car and its History](https://www.bmw.com/en/innovation/connected-car.html#:~:text=The%20connected%20car%20in%20Formula,linked%20up%20with%20their%20environment.)
 
 ### Types of Vehicle Connectivity - Vehicle to Everything (V2X)
-- Vehicle to Vehicle (V2V)
-- Vehicle to Infrastructure (V2I)
-- Vehicle to Cloud (V2C)
-- Vehicle to Pedestrian (V2P)
+- **Vehicle to Vehicle (V2V)**
+  - Warn other vehicles about
+    -  difficult road conditions
+  - Autonomous Driving
+    - Vehicle pooling (trailing) 
+- **Vehicle to Infrastructure (V2I)**
+  - Send warnings to driver
+    - sharp corners
+    - breaking speed limits
+    - heavy rain (weather updates)
+  - Heavy vehicles
+    - request for signal priority
+  - Car parks
+    - communicate about availablity of spaces
+  - Traffic lights
+    -  communicate length of their signal duration
+- **Vehicle to Cloud (V2C)**
+  - Modern Navigation System
+  - Car Sharing Systems
+  - Remote Diagnostics
+  - OTA Updates
+- **Vehicle to Pedestrian (V2P)**
+  - Pedestrain Recognition and Warning System
+    - PS: Pedestrain also include other vulnerable users like cyclists
+    - alert about hazardous situation
+    - A Smart Road Infrastructure is mandatory
 - Vehicle to Device (V2D)
 - Vehicle to Network (V2N)
 - Vehicle to Grid (V2G)
