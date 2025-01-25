@@ -2,8 +2,8 @@
 ![](https://img.shields.io/badge/PG-blue) ![](https://img.shields.io/badge/Subject-CVS-blue) <br/>
 ![](https://img.shields.io/badge/Lecture-3-orange) ![](https://img.shields.io/badge/Credits-3-orange) 
 
-## CVS#08
-![](https://img.shields.io/badge/Member-TBD-gold) <br/> 
+## CVS#08 - Secure OTA Updates for Electric Vehicles (EVs)
+![](https://img.shields.io/badge/Member-Shriram_Rajaraman-gold) <br/> 
 ![](https://img.shields.io/badge/SDG-TBD-darkgreen) <br/> 
 ![](https://img.shields.io/badge/Reviewed-TBD-brown) 
 
