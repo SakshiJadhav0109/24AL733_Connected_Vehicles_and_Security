@@ -2,8 +2,8 @@
 ![](https://img.shields.io/badge/PG-blue) ![](https://img.shields.io/badge/Subject-CVS-blue) <br/>
 ![](https://img.shields.io/badge/Lecture-3-orange) ![](https://img.shields.io/badge/Credits-3-orange) 
 
-## CVS#02
-![](https://img.shields.io/badge/Member-TBD-gold) <br/> 
+## CVS#02 - CAN and CAN-FD Vulnerability Analysis
+![](https://img.shields.io/badge/Member-Boomika_K_T-gold) <br/> 
 ![](https://img.shields.io/badge/SDG-TBD-darkgreen) <br/> 
 ![](https://img.shields.io/badge/Reviewed-TBD-brown) 
 
