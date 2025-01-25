@@ -2,8 +2,8 @@
 ![](https://img.shields.io/badge/PG-blue) ![](https://img.shields.io/badge/Subject-CVS-blue) <br/>
 ![](https://img.shields.io/badge/Lecture-3-orange) ![](https://img.shields.io/badge/Credits-3-orange) 
 
-## CVS#04
-![](https://img.shields.io/badge/Member-TBD-gold) <br/> 
+## CVS#04 - OTA Update Strategies for SDV using CI/CD
+![](https://img.shields.io/badge/Member-Mohit_Joshi-gold) <br/> 
 ![](https://img.shields.io/badge/SDG-TBD-darkgreen) <br/> 
 ![](https://img.shields.io/badge/Reviewed-TBD-brown) 
 
