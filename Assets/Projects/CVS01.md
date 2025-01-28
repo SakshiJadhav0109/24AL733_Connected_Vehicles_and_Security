@@ -9,10 +9,9 @@
 
 ### Problem Statement
   In the Automotive domain, Controller Area Network (CAN) is one of the common and popular communication protocols, which is known for it’s simplicity and ease of implementation. It offers better data speed as compared to LIN or FlexRay. However, with the advancement of Automotive domain, more and more features are getting added, which requires the transfer of vast amounts of data collected through various sensors like RADAR, LIDAR, Ultrasonic Sensor, high-definition Cameras etc. To handle this enormous amount of data, a high-speed data transmission protocol is essential. The traditional CAN having data speed up to 1Mbps and payload of 8 bytes, is inefficient for handling the demands of modern ADAS applications. To accommodate this high-speed data, an improved version of classical CAN, known as Controller Area Network Flexible Data-Rate has been introduced which offers data speed of 10 Mbps with payload capacity of 64 bytes. 
-	 Moreover, as neither CAN nor CAN-FD protocol is inherently secured, they are becoming vulnerable to data breaches, tampering, and unauthorized access.
-  
-	Therefore, there is a need to implement CAN-FD communication protocol and incorporate security measures like lightweight Encryption protocol and Hashing Algorithm. Also, it’s necessary to evaluate the performance of CAN-FD over classical CAN in terms of latency and bandwidth. 
-  
+	 Moreover, as neither CAN nor CAN-FD protocol is inherently secured, they are becoming vulnerable to data breaches, tampering, and unauthorized access. 
+  Therefore, there is a need to implement CAN-FD communication protocol and incorporate security measures like lightweight Encryption protocol and Hashing Algorithm. Also, it's necessary to evaluate the performance of CAN-FD over classical CAN in terms of latency and bandwidth.
+
  
 ---
 
