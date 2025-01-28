@@ -8,7 +8,9 @@
 ![](https://img.shields.io/badge/Reviewed-TBD-brown) 
 
 ### Problem Statement
-The automotive industry's transition to intelligent vehicles has led to increasing reliance on electronic control units (ECUs). These ECUs require regular firmware updates for performance enhancements, bug fixes, and safety improvements. Traditional physical update methods pose challenges such as high costs, inefficiencies, and user inconvenience. Firmware-Over-The-Air (FOTA) aims to address these challenges by enabling remote updates. However, the transition introduces vulnerabilities, including data tampering, unauthorized access, and replay attacks, which can compromise safety and functionality. The central challenge lies in designing a lightweight and secure FOTA protocol that ensures data integrity, authentication, confidentiality, and freshness, all while accommodating resource constraints and addressing wireless communication vulnerabilities.
+The automotive industry's shift toward intelligent vehicles has increased dependence on electronic control units (ECUs) for safety, performance, and operational enhancements. Regular firmware updates are essential to maintain functionality, fix bugs, and improve system performance. Traditional physical update methods are costly, inefficient, and inconvenient for manufacturers and consumers.
+Firmware-Over-The-Air (FOTA) technology addresses these limitations by enabling remote updates, streamlining processes, and enhancing user experience. However, transitioning to FOTA introduces significant cybersecurity risks, including data tampering, unauthorized firmware access, replay attacks, and malware injection, which can jeopardize vehicle safety and functionality.
+The central challenge is developing a lightweight, secure FOTA protocol that ensures data integrity, authentication, confidentiality, and freshness while addressing the limited computational resources of ECUs and the vulnerabilities of wireless communication. A robust solution is critical to delivering safe, efficient, and reliable updates in the evolving landscape of intelligent vehicles.
 ---
 
 ### Literature Survey
