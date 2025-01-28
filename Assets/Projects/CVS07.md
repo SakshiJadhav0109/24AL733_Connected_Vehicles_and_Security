@@ -77,10 +77,12 @@ The proposed 5G-enabled V2X framework aligns with multiple SDGs by addressing cr
 
 ### References
 
-[1].Toward 5G Edge Computing for Enabling Autonomous Aerial Vehicles
+[1]. 5G MEC-Enabled Vehicle Discovery Service for Streaming-Based CAM Applications
 
-[2].Autonomous vehicles in 5G and beyond: A survey
+[2]. A Group-Based Multicast Service Authentication and Data Transmission Scheme for 5G-V2X
 
-[3].Street Smart in 5G: Vehicular Applications, Communication, and Computing
+[3]. On 5G-V2X Use Cases and Enabling Technologies: A Comprehensive Survey
+
+[4]. Toward 5G Edge Computing for Enabling Autonomous Aerial Vehicles
 
 ---
