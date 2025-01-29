@@ -9,8 +9,13 @@
 
 ### Problem Statement
 The automotive industry's shift toward intelligent vehicles has increased dependence on electronic control units (ECUs) for safety, performance, and operational enhancements. Regular firmware updates are essential to maintain functionality, fix bugs, and improve system performance. Traditional physical update methods are costly, inefficient, and inconvenient for manufacturers and consumers.
+
 Firmware-Over-The-Air (FOTA) technology addresses these limitations by enabling remote updates, streamlining processes, and enhancing user experience. However, transitioning to FOTA introduces significant cybersecurity risks, including data tampering, unauthorized firmware access, replay attacks, and malware injection, which can jeopardize vehicle safety and functionality.
-The central challenge is developing a lightweight, secure FOTA protocol that ensures data integrity, authentication, confidentiality, and freshness while addressing the limited computational resources of ECUs and the vulnerabilities of wireless communication. A robust solution is critical to delivering safe, efficient, and reliable updates in the evolving landscape of intelligent vehicles.
+
+The cntral challenges is developing a lightweight, Secure fota protocol that ensure data integrity, authentication, confidentiality, and freshness while addressing the limited computational resources of ECUs and 
+the vulnerabilities of wireless communication.
+Arobust solution is critical to delivering safe, efficient, and reliable updates is the evolving landscape of intelligent vehicles.
+
 ---
 
 ### Literature Survey
@@ -21,11 +26,17 @@ These studies underline the need for robust and secure frameworks to ensure reli
 ---
 
 ### Proposed Work
-The proposed solution focuses on designing a secure and efficient FOTA protocol tailored for intelligent vehicles. Key features include:
-•	Integrity Assurance: Ensures firmware remains unaltered during transmission and installation.
-•	Authentication Mechanisms: Verifies the authenticity of firmware sources.
-•	Confidentiality Protocols: Protects proprietary firmware from unauthorized access.
-•	Freshness Verification: Prevents outdated firmware from being reused.
+The proposed solution focuses on designing a secure and efficient FOTA protocol tailored for intelligent vehicles. 
+Key features include:
+
+1.Integrity Assurance: Ensures firmware remains unaltered during transmission and installation.
+
+2.Authentication Mechanisms: Verifies the authenticity of firmware sources.
+
+3.Confidentiality Protocols: Protects proprietary firmware from unauthorized access.
+
+4.Freshness Verification: Prevents outdated firmware from being reused.
+
 The framework will leverage lightweight cryptographic methods to address the resource constraints of ECUs, ensuring seamless and secure updates.
 
 ---
